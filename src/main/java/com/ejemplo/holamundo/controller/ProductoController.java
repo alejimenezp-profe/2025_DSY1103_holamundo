@@ -13,7 +13,7 @@ import java.util.List;
 public class ProductoController {
 
     @GetMapping
-    public String index() {
+    public String index2() {
         return "bienvenido al lista de productos";
     }
 
